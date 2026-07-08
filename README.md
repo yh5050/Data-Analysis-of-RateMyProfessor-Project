@@ -1,4 +1,4 @@
-# Team Mochi
+# Data Analysis of RateMyProfessor Project
 
 IDS Capstone group project analysis.
 
@@ -17,4 +17,3 @@ The Python script expects these local CSV files when rerunning the analysis:
 - `rmpCapstoneQual.csv`
 
 These data files are not included in this repository.
-
